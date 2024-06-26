@@ -23,10 +23,11 @@ Here are some ideas to get you started:
   <!--<p> ⚙  <a href="#" target="_blanck">Look at my portfolio</a></p>-->
 
 <br>
-<div align="center">
+<div>
   <br>
-  <img alt="Info-Github" src="http://github-readme-stats.vercel.app/api?username=VictorFontela&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true&title_color=d81b60" height="200" /> &emsp; &emsp;
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorFontela&show_icons=true&locale=en&layout=compact&theme=ocean_dark&title_color=d81b60" alt="kimjayden" height="200"/>&emsp; &emsp; &emsp;
+  <img alt="Info-Github" src="http://github-readme-stats.vercel.app/api?username=VictorFontela&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true&title_color=d81b60" height="200" /> &emsp; &emsp;
+  
 
   
   <br/>
