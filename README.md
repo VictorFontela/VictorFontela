@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 > Hello! 
-  <br>I'm Victor Fontela</h1> <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" />
-  <h3>Welcome to my profile</h3>
+  <h3>Hello!
+  <br/><h1>I'm Victor Fontela <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" /></h1></h3>
   <!--<p> ⚙  <a href="#" target="_blanck">Look at my portfolio</a></p>-->
 
 <br>
