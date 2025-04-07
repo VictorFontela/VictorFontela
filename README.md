@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
   <h3>Hi there 👋</h3>
-  <p>I'm Victor Fontela, a passionate <strong>Web Developer</strong> currently working at <strong>Ímpar</strong>.</p>
+  <p>🧑‍💻 I'm Victor Fontela, a passionate <strong>Web Developer</strong> currently working at <strong>Ímpar</strong>.</p>
   <p>🌐 I enjoy building efficient and user-friendly web applications.</p>
   <p>📱 I’m also exploring the world of <strong>mobile development</strong>, always eager to learn and take on new challenges.</p>
   <p>💡 Open to collaboration and new ideas — let’s build something great together!</p>
